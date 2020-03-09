@@ -1,0 +1,10 @@
+{
+	"name": "music-replace-pack",
+	"version": "1.0.0",
+	"description": "Replace some music",
+	"module": true,
+	"postload": "postload.js",
+	"ccmodDependencies": {
+		"ccloader": "*"
+	}
+}
