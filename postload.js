@@ -14,13 +14,12 @@ ig.module('game.feature.bgm.replace-music')
       ig.BGM_TRACK_LIST[i] = tracks[i];
     }
 
-    /* 
     ig.BGM_DEFAULT_TRACKS.metalGear = {
       field: {
         track: "metalGear",
         volume: 1
       }, battle: { track: "tutorial-battle", volume: 1 }, rankBattle: { track: "fieldBattle", volume: 1 }, sRankBattle: { track: "s-rank", volume: 1 }
-    }; */
+    };
 
     //infiltration: { path: "media/bgm/muInfiltration.mp3", loopEnd: 113.777, volume: 0.5 }
   });
