@@ -3,7 +3,7 @@ ig.module('game.feature.bgm.replace-music')
   .defines(function () {
 
     const tracks = {
-      basinKeep: { path: "media/bgm/CelesteBasin3.mp3", loopEnd: 155, volume: 1 },
+      basinKeep: { path: "media/bgm/CelesteBasin4.mp3", loopEnd: 155, volume: 1 },
       emilie: { path: "media/bgm/ValseSonic4.mp3", loopEnd: 69, volume: 0.8 },
       bergenVillage: { path: "media/bgm/ValseSonic4.mp3", loopEnd: 69, volume: 0.8 },
       metalGear: { path: "media/bgm/metalGear1.mp3", loopEnd: 113.777, volume: 0.5 }
