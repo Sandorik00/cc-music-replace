@@ -4,6 +4,7 @@
 	"description": "Replace some music",
 	"module": true,
 	"postload": "postload.js",
+	"prestart": "prestart.js",
 	"ccmodDependencies": {
 		"ccloader": "*"
 	}
