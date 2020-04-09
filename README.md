@@ -1,6 +1,6 @@
 # Custom music replacement for CrossCode
 
-All track picked up randomly and not have any theme.
+All tracks picked up randomly and not have any theme.
 
 **All rights to the music assets belong to their owners**
 
