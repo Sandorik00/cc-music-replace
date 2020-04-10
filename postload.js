@@ -182,8 +182,8 @@ ig.module("game.feature.bgm.replace-music")
         volume: 0.5,
       },
       shockDungeon: {
-        path: "media/bgm/shock.mp3",
-        loopEnd: 85.328,
+        path: "media/bgm/thunder.mp3",
+        loopEnd: 92.014,
         volume: 0.5,
       },
       waveDungeon: {

@@ -81,7 +81,7 @@ muGarden: garden: 1.48.113187 +
 basinkeep-i: 38.835261 +
 muBasinkeep: basinkeep: 1.59.526140 +
 muTemplelake: lake 3.49.365959 +
-muTemplethunder: thunder: 1.32.014672
+muTemplethunder: thunder: 1.32.014672 +
 grandtree-i 1.17.760748 +
 muTempletree: grandtree: 3.09.512608 +
 muSapphireridge: ridge: 3.45.449478 +
