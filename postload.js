@@ -33,7 +33,7 @@ ig.module("game.feature.bgm.replace-music")
         loopEnd: 98.183,
         volume: 0.5,
         introPath: "media/bgm/title-i.mp3",
-        introEnd: 38.593,
+        introEnd: 78.373,
       },
       "cargoship-exterior": {
         path: "media/bgm/solarship.mp3",
@@ -98,7 +98,7 @@ ig.module("game.feature.bgm.replace-music")
         loopEnd: 73.281,
         volume: 0.5,
         introPath: "media/bgm/fiercebattle-i.mp3",
-        introEnd: 12.273,
+        introEnd: 25.273,
       },
       autumnsRise: {
         path: "media/bgm/autumnsrise.mp3",
