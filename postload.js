@@ -9,22 +9,22 @@ ig.module("game.feature.bgm.replace-music")
       },
       intro: {
         path: "media/bgm/awakened.mp3",
-        loopEnd: 206.888,
+        loopEnd: 98.181,
         volume: 0.5,
         introPath: "media/bgm/awakened-i.mp3",
-        introEnd: 8.36,
+        introEnd: 78.373,
       },
       "tutorial-battle": {
         path: "media/bgm/battle1.mp3",
-        loopEnd: 86.739,
+        loopEnd: 86.711,
         volume: 0.5,
         introPath: "media/bgm/battle1-i.mp3",
-        introEnd: 2.481,
+        introEnd: 71.227,
       },
       challenge: {
         path: "media/bgm/challenge1.mp3",
         loopEnd: 75.413,
-        volume: 0.5,
+        volume: 0.7,
         introPath: "media/bgm/challenge1-i.mp3",
         introEnd: 2.9,
       },
@@ -71,10 +71,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       bossbattle1: {
         path: "media/bgm/boss.mp3",
-        loopEnd: 90.41,
+        loopEnd: 169.398,
         volume: 0.5,
         introPath: "media/bgm/boss-i.mp3",
-        introEnd: 23.102,
+        introEnd: 22.632,
       },
       escape: {
         path: "media/bgm/escape.mp3",
@@ -95,10 +95,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       oldHideoutBattle: {
         path: "media/bgm/fiercebattle.mp3",
-        loopEnd: 73.199,
+        loopEnd: 73.281,
         volume: 0.5,
         introPath: "media/bgm/fiercebattle-i.mp3",
-        introEnd: 15.592,
+        introEnd: 12.273,
       },
       autumnsRise: {
         path: "media/bgm/autumnsrise.mp3",
@@ -136,7 +136,7 @@ ig.module("game.feature.bgm.replace-music")
         loopEnd: 62.655,
         volume: 0.5,
         introPath: "media/bgm/bergentrail-i.mp3",
-        introEnd: 44.763,
+        introEnd: 44.347,
       },
       rhombusSquare: {
         path: "media/bgm/bridge.mp3",
@@ -189,16 +189,16 @@ ig.module("game.feature.bgm.replace-music")
       waveDungeon: {
         path: "media/bgm/lake.mp3",
         loopEnd: 229.365,
-        volume: 0.5,
+        volume: 1.2,
       },
       treeDungeon: {
         path: "media/bgm/grandtree.mp3",
-        loopEnd: 189.512,
+        loopEnd: 189.454,
         volume: 0.5,
         introPath: "media/bgm/grandtree-i.mp3",
-        introEnd: 77.76
+        introEnd: 77.835
       },
-      jungle: { path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.5, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348 },
+      jungle: { path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.7, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348 },
       emilie: {
         path: "media/bgm/emilie.mp3",
         loopEnd: 138.14,
@@ -208,15 +208,13 @@ ig.module("game.feature.bgm.replace-music")
       },
       basinKeep: {
         path: "media/bgm/basin.mp3",
-        loopEnd: 119.526,
+        loopEnd: 234.68,
         volume: 0.5,
-        introPath: "media/bgm/basin-i.mp3",
-        introEnd: 38.835
       },
       casual: { path: "media/bgm/travel.mp3", loopEnd: 122.589, volume: 0.5 },
       briefing: {
         path: "media/bgm/briefing.mp3",
-        loopEnd: 90.515,
+        loopEnd: 176.014,
         volume: 0.5,
       },
       ponder: {
@@ -247,7 +245,7 @@ ig.module("game.feature.bgm.replace-music")
       raidTheme: {
         path: "media/bgm/raid.mp3",
         loopEnd: 145.848,
-        volume: 0.5,
+        volume: 0.7,
         introPath: "media/bgm/raid-i.mp3",
         introEnd: 14.765,
       },
@@ -282,10 +280,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       shizukaConfrontation: {
         path: "media/bgm/confrontaion.mp3",
-        loopEnd: 32.123,
-        volume: 0.5,
+        loopEnd: 32.219,
+        volume: 0.4,
         introPath: "media/bgm/confrontaion-i.mp3",
-        introEnd: 63.085,
+        introEnd: 63.66,
       },
       evoDungeon1: {
         path: "media/bgm/separeted.mp3",
@@ -351,10 +349,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       autumnsFall: {
         path: "media/bgm/autumnsfall.mp3",
-        loopEnd: 123.362,
+        loopEnd: 61.744,
         volume: 0.5,
         introPath: "media/bgm/autumnsfall-i.mp3",
-        introEnd: 6.753
+        introEnd: 27.155
       },
       snailBattle1: {
         path: "media/bgm/growth.mp3",

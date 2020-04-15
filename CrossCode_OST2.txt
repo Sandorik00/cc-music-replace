@@ -1,0 +1,113 @@
+Title intro - 1.18.373787 (изменил место цикла) +
+Title - The Tale of a Cruel World 1.38.181587 (изменил место цикла) +
+Mysterious Place - Space Fantasy - Super Mario Galaxy 1.40.3763
+fierce intro - 25.273038 (изменил место цикла) +
+Fierce Battle - Pokemon Black Elite Four 1.13.281519 (изменил место цикла) +
+Distant Future - Оставить как есть, всё равно один раз за всю игру играет
+awakened intro - 8.3606
+Awakened - Clocktowers Beneath the Sea 3.26.8888
+Cargo Hold - Dreamy Mushrise Winds 1.27.57875
+battle 1 intro - 1.11.227687 (изменил место цикла) +
+Battle 1 - Octopath Traveler - Battle I 1.26.711112 (изменил место цикла) +
+M.S. Solar - Aspertia City 1.15.441543 (в прерывании был виноват я, сделав трек длиннее, не зная этого сам) +
+Welcome to CrossWorlds - The Spirit Tree 1.31.6526 попробовать переделать
+challange 1 intro - 2.9000
+Challenge 1 - Final Destination (Delta Mix) 1.15.4133 сделать чуть погромче + 0.7
+Taking What Does Not Belong intro - 14.95976
+Taking What Does Not Belong - Snatcher's Contractual Obligations 1.11.93377
+Boss Battle intro - 22.632897 (изменил место цикла) +
+Boss Battle - Blooming Villain Persona 5: Scramble 2.49.398751 (изменил место цикла) +
+crosscounter intro - 2.65844
+CrossCounter! - The Rival (Black Knight - First Battle) 1.15.9283
+Escape - Deltarune Chase 33.9582
+Newcomer's Bridge - Route 29 1.48.576
+Rhombus Dungeon intro - 21.4486
+Rhombus Dungeon - First Steps Celeste 2.08.0085
+challenge 2 intro - 8.73975
+Challenge 2 - vs. Titan & Big Mother 1.30.357645
+emilie intro - 4.04535
+Emilie theme - Spagonia (Night) 2.18.14059
+apollo intro - 6.820
+Apollo Theme - Ace Attorney Cornered 1:16.8255
+Rookie Harbor - Gravity Rush OST - Downtown 1.27.08161
+Autumn's Rise - 17.420613
+Autumn's Rise - Xenoblade Chronicles - Gaur Plains 3.47.356214
+battle 2 intro - 5.34993
+Battle 2 - Etrian Odyssey IV - Music: Battlefield - Storm 3.22.698232
+Travelling Together - Home Undertale 2.02.589859
+muLea: lea: 1.49.931497
+mubergentrail-i: bergentrail-i: 44.347233 (изменил место цикла) +
+muBergentrail: bergentrail: 1.02.655805 (каким-то чудом длинна осталась та же, но место цикла чуть другое) +
+bergen-i: 26.159774
+muBergenvillage: bergen: 1.26.008367
+muBriefing: briefing: 2.56.014938 (изменил место цикла) +
+muFirstscholarsFirst: scholars: 2.25.696258                                             
+muTemplemine: mine 1.20.011058
+improvising intro: 17.596395
+muImprovising: Improvising: 1.40.381112
+valley-i: 22.539855
+muMaroonvalley: valley:  1.51.5718
+bakiikum-i: 2.4872
+mBakiikum: bakiikum: 1.18.24181
+muShock: shock: 1.25.32895
+muTemplevalley: temple: 3.57.958481
+muDream3: dream3: 2.24.214195
+autumnsfall-i: 27.155896 (изменил место цикла) +
+muAutumnsfall: autumnsfall: 1.01.744445 (изменил место цикла) +
+muRaid-i: raid-i: 14.765458
+muRaid: raid: 2.25.848792 Сделать погромче +
+muBlueavatar-i: expirience-i: 12.253038
+muBlueavatar: expirience: 3.27.952813
+muImprisoned: imprisoned: 2.40.006570
+muVermillion: vermillion: 5.07.039886
+muBattle3-i: battle3-i: 10.676894
+muBattle3: battle3: 1.46.664
+muConfrontation-i: confrontation-i: 1.03.660023 (изменил место цикла) +
+muConfrontation: confrontation: 32.219478 (изменил место цикла), убавить немного звук +
+muSadtheme: sadness: 1.38.542013
+infiltration-i: 1.20.291542
+muInfiltration: infiltration: 4.00.899875
+muVermillionDungeon: separated: 4.16.040657
+muVermillionDungeon2-i: hackyourway-i: 11.044195
+muVermillionDungeon2: hackyourway: 4.01.392358
+muEscape2: escapeagain: 3.12.078050
+muExponential-i: growth-i: 22.534988
+muExponential: growth: 2.25.964622
+muExponentialpart2: conclusion: 3.44.700839
+pastevents-i: 18.838844
+muPastevents: pastevents: 2.55.232313
+garden-i: 17.348578
+muGarden: garden: 1.48.113187 сделать чуть погромче +
+muBasinkeep: basinkeep: 3.54.680204 (не делаем интро, цикл всего трека) +
+muTemplelake: lake 3.49.365959 сделать НАМНОГО громче либо найти более чёткую версию +
+muTemplethunder: thunder: 1.32.014672 Сан, не забудь что именно эта тема для данжа, не shock +
+grandtree-i 1.17.835057 (изменил место цикла) +
+muTempletree: grandtree: 3.09.454082 (изменил место цикла) +
+muSapphireridge: ridge: 3.45.449478
+muRhombussquare-i: rhombussquare-i: 4.075618
+muRhombussquare: rhombussquare: 2.46.769933
+muOldhideout: hideout: 3.12.003
+muShizuka-i: shizuka-i: 14.18537
+muShizuka: shizuka: 4.13.50696
+muTrueintention-i: intention-i: 1.08.577552
+muTrueintention: intention: 1.07.931362
+vermilliondungeon-i: 7.348436
+muVermillionDungeon3: vermilliondungeon: 1.58.174105
+muUltimate-i: ultimateexperience-i: 5.07.528091
+muUltimate-i: ultimateexperience: 5.08.261809
+muEnding: ending: 4.10.226917
+muArena: battlearena: 2.25.49449
+muBossrush: bossrush-i: 6.007506
+muBossrush: bossrush: 1.57.065624
+muSrank-i: srank-i: 10.882032
+muSrank: srank: 2.43.196157
+
+stealth!: 1.34.47651
+sephisloth: 6.00883652
+bluehedgeheg: 1.56.039705
+ability-got: item: 3.39898 
+lolfanfare: lolfanfare: 5.980137 
+muDream1: dream1: 38.940114
+muDream2: dream2: 3.58.822109
+muGlitch-i: muglitch-i: 20.691
+muGlitch: muglitch-i: 1.44.347625
