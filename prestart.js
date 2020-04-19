@@ -11,7 +11,7 @@ ig.module('game.feature.loadable-replace')
           this.mapDefaultTrackSet && this.mapDefaultTrackSet.clearCached();
           console.log(a);
           this.mapDefaultTrackSet = this.loadTrackSet(a.attributes.bgm);
-          if (a.name == "autumn/path-1-3") {
+          if (a.name === "autumn/path-1-3") {
             a.entities[284].settings.event[19] = {
               "bgm": "bluehedgeheg",
               "volume": 1,
@@ -19,7 +19,7 @@ ig.module('game.feature.loadable-replace')
               "type": "PUSH_BGM"
             }
           }
-          if (a.name == "jungle/caves/infested-cave-02") {
+          if (a.name === "jungle/caves/infested-cave-02") {
             a.entities[173].settings.event[29] = {
               "bgm": "sephisloth",
               "volume": 1,
@@ -27,13 +27,18 @@ ig.module('game.feature.loadable-replace')
               "type": "PUSH_BGM"
             }
           }
-          if (a.name == "arid/tower-1") {
+          if (a.name === "arid/tower-1") {
             a.entities[242].settings.event[31] = {
               "bgm": "stealth",
               "volume": 1,
               "mode": "IMMEDIATELY",
               "type": "PUSH_BGM"
             }
+          }
+          if (a.name === "jungle/caves/smuggle-route-2") {
+            ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.stealth;
+          } else if (a.name !== "jungle/caves/smuggle-route-2") {
+            ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.jungle2
           }
           this.setDefault(this.mapDefaultTrackSet, null, true);
         }

@@ -227,15 +227,15 @@ ig.module("game.feature.bgm.replace-music")
       lea: { path: "media/bgm/lea.mp3", loopEnd: 109.931, volume: 0.5 },
       "dreamsequence-intro": {
         path: "media/bgm/dream1.mp3",
-        loopEnd: 38.94,
+        loopEnd: 106.511,
         volume: 0.5,
+        introPath: "media/bgm/dream1-i.mp3",
+        introEnd: 132.319
       },
       dreamsequence: {
-        path: "media/bgm/dream3.mp3",
+        path: "media/bgm/dream2.mp3",
         loopEnd: 144.214,
-        volume: 0.5,
-        introPath: "media/bgm/dream2.mp3",
-        introEnd: 238.672,
+        volume: 0.5
       },
       sorrow: {
         path: "media/bgm/shock.mp3",
@@ -279,11 +279,9 @@ ig.module("game.feature.bgm.replace-music")
         introEnd: 10.676,
       },
       shizukaConfrontation: {
-        path: "media/bgm/confrontaion.mp3",
-        loopEnd: 32.219,
-        volume: 0.4,
-        introPath: "media/bgm/confrontaion-i.mp3",
-        introEnd: 63.66,
+        path: "media/bgm/confrontation.mp3",
+        loopEnd: 164.63,
+        volume: 0.5,
       },
       evoDungeon1: {
         path: "media/bgm/separeted.mp3",
@@ -436,8 +434,12 @@ ig.module("game.feature.bgm.replace-music")
         path: "media/bgm/stealth!.mp3",
         loopEnd: 94.476,
         volume: 0.5
+      },
+      jungle2: {
+         path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.7, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348
       }
     };
+
 
     for (var i in tracks) {
       //console.log(tracks[i]);
