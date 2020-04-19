@@ -9,10 +9,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       intro: {
         path: "media/bgm/awakened.mp3",
-        loopEnd: 98.181,
+        loopEnd: 206.888,
         volume: 0.5,
         introPath: "media/bgm/awakened-i.mp3",
-        introEnd: 78.373,
+        introEnd: 8.36,
       },
       "tutorial-battle": {
         path: "media/bgm/battle1.mp3",
@@ -133,10 +133,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       bergenTrail: {
         path: "media/bgm/bergentrail.mp3",
-        loopEnd: 62.655,
+        loopEnd: 62.627,
         volume: 0.5,
         introPath: "media/bgm/bergentrail-i.mp3",
-        introEnd: 44.347,
+        introEnd: 79.472,
       },
       rhombusSquare: {
         path: "media/bgm/bridge.mp3",
@@ -193,10 +193,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       treeDungeon: {
         path: "media/bgm/grandtree.mp3",
-        loopEnd: 189.454,
-        volume: 0.5,
+        loopEnd: 132.647,
+        volume: 1.5,
         introPath: "media/bgm/grandtree-i.mp3",
-        introEnd: 77.835
+        introEnd: 2.251
       },
       jungle: { path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.7, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348 },
       emilie: {
@@ -349,10 +349,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       autumnsFall: {
         path: "media/bgm/autumnsfall.mp3",
-        loopEnd: 61.744,
+        loopEnd: 180.919,
         volume: 0.5,
         introPath: "media/bgm/autumnsfall-i.mp3",
-        introEnd: 27.155
+        introEnd: 6.952
       },
       snailBattle1: {
         path: "media/bgm/growth.mp3",
