@@ -280,7 +280,7 @@ ig.module("game.feature.bgm.replace-music")
       },
       shizukaConfrontation: {
         path: "media/bgm/confrontation.mp3",
-        loopEnd: 164.63,
+        loopEnd: 141.696,
         volume: 0.5,
       },
       evoDungeon1: {

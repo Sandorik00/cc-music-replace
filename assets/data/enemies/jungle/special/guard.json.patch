@@ -1,0 +1,12 @@
+[
+ { "type": "ENTER", "index": "actions" },
+ { "type": "ENTER", "index": "Detect" },
+ { "type": "ADD_ARRAY_ELEMENT", "index": "0", "content": { 
+                "volume": 1,
+                "global": false,
+                "loop": false,
+                "type": "PLAY_SOUND",
+                "sound": "media/sound/alertsoundmgs.ogg"
+               } },
+ { "type": "EXIT" }
+]
