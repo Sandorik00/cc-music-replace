@@ -194,7 +194,7 @@ ig.module("game.feature.bgm.replace-music")
       treeDungeon: {
         path: "media/bgm/grandtree.mp3",
         loopEnd: 132.647,
-        volume: 1.5,
+        volume: 2.5,
         introPath: "media/bgm/grandtree-i.mp3",
         introEnd: 2.251
       },
