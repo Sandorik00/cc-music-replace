@@ -36,15 +36,6 @@ ig.module('game.feature.loadable-replace')
           }
           if (a.name === "jungle/caves/smuggle-route-2") {
             ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.stealth;
-            /* a.entities[16].settings.event.unshift(
-              {
-                "volume": 1,
-                "global": false,
-                "loop": false,
-                "type": "PLAY_SOUND",
-                "sound": "media/sound/alertsoundmgs.ogg"
-              }
-            ); */
           } else if (a.name !== "jungle/caves/smuggle-route-2") {
             ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.jungle2
           }
@@ -55,13 +46,3 @@ ig.module('game.feature.loadable-replace')
     })
 
   })
-
-  /*
-  {
-                          "volume": 1,
-                          "global": false,
-                          "loop": false,
-                          "type": "PLAY_SOUND",
-                          "sound": "media/sound/puzzle/push-start.ogg"
-                        }
-  */

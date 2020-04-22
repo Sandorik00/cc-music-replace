@@ -1,12 +1,13 @@
 [
  { "type": "ENTER", "index": "actions" },
  { "type": "ENTER", "index": "Detect" },
- { "type": "ADD_ARRAY_ELEMENT", "index": "0", "content": { 
+ { "type": "ADD_ARRAY_ELEMENT", "index": "2", "content": { 
                 "volume": 1,
                 "global": false,
                 "loop": false,
                 "type": "PLAY_SOUND",
                 "sound": "media/sound/alertsoundmgs.ogg"
                } },
+ { "type": "ADD_ARRAY_ELEMENT", "index": "8", "content": { "time": -1, "type": "WAIT" } },
  { "type": "EXIT" }
 ]
