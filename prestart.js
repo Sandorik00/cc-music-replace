@@ -75,9 +75,12 @@ ig.module('game.feature.loadable-replace')
             }
           }
           if (a.name === "jungle/caves/smuggle-route-2") {
-            ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.stealth;
-          } else if (a.name !== "jungle/caves/smuggle-route-2") {
-            ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.jungle2
+            a.entities[3].settings.npcStates[1].event.quest[3][0][0] = {
+              "bgm": "stealth",
+              "mode": "MEDIUM_OUT",
+              "type": "PUSH_BGM",
+              "volume": 1
+            }
           }
           this.setDefault(this.mapDefaultTrackSet, null, true);
         }

@@ -435,9 +435,6 @@ ig.module("game.feature.bgm.replace-music")
         loopEnd: 94.476,
         volume: 0.5
       },
-      jungle2: {
-         path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.7, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348
-      },
       jungleFish: {
         path: "media/bgm/AnglerFish.mp3", loopEnd: 75.098, volume: 0.5, introPath: "media/bgm/AnglerFish-i.mp3", introEnd: 10.106
       },
