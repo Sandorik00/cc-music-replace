@@ -34,6 +34,46 @@ ig.module('game.feature.loadable-replace')
               "type": "PUSH_BGM"
             }
           }
+          if (a.name === "jungle/grove/lost-shrine-04") {
+            a.entities[190].settings.event[21] = {
+              "bgm": "jungleFish",
+              "volume": 1,
+              "mode": "IMMEDIATELY",
+              "type": "PUSH_BGM"
+            }
+          }
+          if (a.name === "forest/caves/cave-013-pandza-02") {
+            a.entities[101].settings.event[41] = {
+              "bgm": "panzaMK2",
+              "volume": 1,
+              "mode": "IMMEDIATELY",
+              "type": "PUSH_BGM"
+            }
+          }
+          if (a.name === "bergen-trail/cave/cave-6-3") {
+            a.entities[10].settings.event[10] = {
+              "bgm": "pengDakara",
+              "volume": 1,
+              "mode": "IMMEDIATELY",
+              "type": "PUSH_BGM"
+            }
+          }
+          if (a.name === "heat/caves/cliffs-temple-03") {
+            a.entities[8].settings.event[40] = {
+              "bgm": "sandShark",
+              "volume": 1,
+              "mode": "IMMEDIATELY",
+              "type": "PUSH_BGM"
+            }
+          }
+          if (a.name === "heat/special/glitch-boss") {
+            a.entities[2].settings.event[14] = {
+              "bgm": "USE_THIS",
+              "volume": 1,
+              "mode": "IMMEDIATELY",
+              "type": "PUSH_BGM"
+            }
+          }
           if (a.name === "jungle/caves/smuggle-route-2") {
             ig.BGM_TRACK_LIST.jungle = ig.BGM_TRACK_LIST.stealth;
           } else if (a.name !== "jungle/caves/smuggle-route-2") {

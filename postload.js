@@ -437,12 +437,26 @@ ig.module("game.feature.bgm.replace-music")
       },
       jungle2: {
          path: "media/bgm/garden.mp3", loopEnd: 108.113, volume: 0.7, introPath: "media/bgm/garden-i.mp3", introEnd: 17.348
+      },
+      jungleFish: {
+        path: "media/bgm/AnglerFish.mp3", loopEnd: 75.098, volume: 0.5, introPath: "media/bgm/AnglerFish-i.mp3", introEnd: 10.106
+      },
+      panzaMK2: {
+        path: "media/bgm/PandzaMkII.mp3", loopEnd: 158.077, volume: 0.5, introPath: "media/bgm/PandzaMkII-i.mp3", introEnd: 18.402
+      },
+      pengDakara: {
+        path: "media/bgm/pengdakara.mp3", loopEnd: 120.518, volume: 0.5, introPath: "media/bgm/pengdakara-i.mp3", introEnd: 1.296
+      },
+      sandShark: {
+        path: "media/bgm/SandShark.mp3", loopEnd: 118.918, volume: 0.5, introPath: "media/bgm/SandShark-i.mp3", introEnd: 5.34
+      },
+      USE_THIS: {
+        path: "media/bgm/USE_THIS.mp3", loopEnd: 101.054, volume: 0.5
       }
     };
 
 
     for (var i in tracks) {
-      //console.log(tracks[i]);
       ig.BGM_TRACK_LIST[i] = tracks[i];
     }
 
