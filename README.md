@@ -6,7 +6,7 @@ Not even every single, we went even further and added several new tracks to boss
 Why do we did this? *Just for fun lol*.
 Come on, give it a try, you're not gonna regret it.
 
-###### If you already bored just go to [Installation](https://github.com/Sandorik00/cc-music-replace#Finally!-Your-installation-instruction)
+###### If you already bored just go to [Installation](https://github.com/Sandorik00/cc-music-replace#finally-your-installation-instruction)
 
 # Table with replaced tracks
 
@@ -101,7 +101,7 @@ Come on, give it a try, you're not gonna regret it.
 
 ### 0. Make shure you already installed [CCLoader](https://github.com/CCDirectLink/CCLoader#readme)
 
-### 1. Go to [Releases](https://github.com/Sandorik00/cc-music-replace/releases) or [MEGA](https://mega.nz/file/WVEgEYZL#QRmyzP31yfGCDl25HKGLC6NSVeuK19itTK5RJDYo9F0)
+### 1. Go to [Releases](https://github.com/Sandorik00/cc-music-replace/releases) or [MEGA](https://mega.nz/file/SElRgAxC#7czzTvhdxR-I4ebLgg6S4uZmytZOYexyvp6HfPZAi3E)
 
 ### 2. Download archive
 
