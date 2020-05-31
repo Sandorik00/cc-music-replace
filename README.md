@@ -23,7 +23,7 @@ Come on, give it a try, you're not gonna regret it.
 | Welcome to CrossWorlds           | Ori & The Blind Forest                                   | The Spirit Tree                              |
 | Challenge 1                      |  Super Smash Bros.  |Final Destination (Delta Mix)                            |                                              |
 | Taking What Does Not Belong      | A Hat in Time  |Snatcher's Contractual Obligations                       |                                              |
-| Boss Battle                      |  Persona 5: Scramble 1 | Blooming Villain                   |                                              |
+| Boss Battle                      |  Persona 5: Scramble | Blooming Villain                   |                                              |
 | CrossCounter!                    | Shovel Knight                                            | The Rival (Black Knight - First Battle)      |
 | Escape                           | Deltarune | Chase                                          |                                              |
 | Newcomer's Bridge                | Pokemon Heart Gold                                       | Route 29                                     |
@@ -35,7 +35,7 @@ Come on, give it a try, you're not gonna regret it.
 | Autumn's Rise                    | Xenoblade Chronicles                                     | Gaur Plains                                  |
 | Battle 2                         | Etrian Odyssey IV                                        | Battlefield - Storm                   |
 | Travelling Together              |                                                     Undertale | Home                                     |
-| Lea!                             |                    Pokemon Sun & Moon | Lillie’s Theme Pokemon                                   |
+| Lea!                             |                    Pokemon Sun & Moon | Lillie’s Theme                                   |
 | Bergen Trail                     | Pokemon Diamond & Pearl                                  | Route 216 (Night)                            |
 | Bergen Village                   | Final Fantasy 7                                          | Cosmo Canyon                                 |
 | Briefing                         |               Final Fantasy 7 | Cid's Theme                              |
@@ -52,7 +52,7 @@ Come on, give it a try, you're not gonna regret it.
 | The Expirience                   | Pokémon B2/W2                                            | Battle! Colress                              |
 | Imprisoned                       | Final Fantasy VIII                                       | Galbadia Garden                              |
 | Vermillion Wasteland             | Antibirth OST                                            | Drowning                                     |
-| Battle 3                         | A Hat in Time                                            | You Are All Bad Guys phase                   |
+| Battle 3                         | A Hat in Time                                            | You Are All Bad Guys phase 1                   |
 | Confrontation                    | Final Fantasy 7 Remake                                   | 7 Seconds till the End                       |
 | Sadness                          | Pokemon Black                                            | Unwavering Heart                             |
 | Infiltration, Stealth Side quest |  Metal Gear Solid | Encounter                              |                                              |
@@ -99,7 +99,7 @@ Come on, give it a try, you're not gonna regret it.
 
 # Finally! Your installation instruction
 
-### 0. Make shure you already installed [CCLoader](https://github.com/CCDirectLink/CCLoader#readme)
+### 0. Make sure you already installed [CCLoader](https://github.com/CCDirectLink/CCLoader#readme)
 
 ### 1. Go to [Releases](https://github.com/Sandorik00/cc-music-replace/releases) or [MEGA](https://mega.nz/file/SElRgAxC#7czzTvhdxR-I4ebLgg6S4uZmytZOYexyvp6HfPZAi3E)
 
