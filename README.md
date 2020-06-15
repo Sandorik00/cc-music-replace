@@ -52,12 +52,12 @@ Come on, give it a try, you're not gonna regret it.
 | The Expirience                   | Pokémon Black & White 2                                  | Battle! Colress                              |
 | Imprisoned                       | Final Fantasy VIII                                       | Galbadia Garden                              |
 | Vermillion Wasteland             | The Binding of Isaac: Antibirth                          | Drowning                                     |
-| Battle 3                         | A Hat in Time                                            | You Are All Bad Guys phase 1                   |
+| Battle 3                         | A Hat in Time                                            | You Are All Bad Guys (Phase 1)                   |
 | Confrontation                    | Final Fantasy VII: Remake                                | 7 Seconds till the End                       |
 | Sadness                          | Pokémon Black & White                                    | Unwavering Heart                             |
 | Infiltration, Stealth Side quest |  Metal Gear Solid | Encounter                              |                                              |
 | Separated Again                  | Fastfall - Dustforce OST                                 | Lifeformed - The Magnetic Tree               |
-| Hack Your Way!                   | Sonic Colors                                             | Terminal Velocity act 1                      |
+| Hack Your Way!                   | Sonic Colors                                             | Terminal Velocity (Act 1)                      |
 | Escape Again                     | Final Fantasy VII: Remake                                | Hurry!                                       |
 | Exponential Growth               | Undertale                                                | Hopes & Dreams                               |
 | Exponential Conclusion           | Undertale                                                | SAVE the World                               |
