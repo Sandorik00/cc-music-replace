@@ -42,7 +42,7 @@ Come on, give it a try, you're not gonna regret it.
 | First Scholars                   |                         Mario Odyssey | Poolside Rest                                |
 | Temple Mine                      | Baptiste Robert |              Temple of Droplets          |                                              |
 | Improvising                      |                           Persona 5 | Life Goes On                                    |
-| Maroon Valley                    | NieR: Automata                                           | Memories of Dust                             |
+| Maroon Valley                    | NieR: Automata                                           | Memories of Dust (No Vocals)                            |
 | Ba'kii Kum                       | Pokémon Black & White                                    | Driftveil City                               |
 | Shocking Reveal                  |                   Pokemon Sun & Moon | Unsettling Atmosphere                                   |
 | Temple of the Valley             |                                Sonic Adventure | Tricky Maze                              |
@@ -62,7 +62,7 @@ Come on, give it a try, you're not gonna regret it.
 | Exponential Growth               | Undertale                                                | Hopes & Dreams                               |
 | Exponential Conclusion           | Undertale                                                | SAVE the World                               |
 | Past Events                      | Valkyrie Profile 2 OST [Silmeria Side] | A Stable Float                  |                                              |
-| Gaia's Garden                    | NieR: Automata                                           | Forest Kingdom                               |
+| Gaia's Garden                    | NieR: Automata                                           | Forest Kingdom (No Vocals)                               |
 | Basin Keep                       | Celeste B-Sides                                          | Mello - Mirror Temple                              |
 | Temple of the Lake               | Chrono Cross                                             | Chronopolis                                  |
 | Temple of Thunder                |                             The Legend of Zelda: Twilight Princess | Palace of Twilight       |
@@ -76,8 +76,8 @@ Come on, give it a try, you're not gonna regret it.
 | Vermillion Dungeon               | Pokémon Sun & Moon                                       | Ultra Megalopolis                            |
 | The Ultimate Experience          | Sangnoksu                                                | Dancing Mad (Symphonic Arrange)              |
 | Ending                           |                               Super Mario World | Ending Theme                            |
-| Battle Arena                     |                           Pokémon Black2/White2 | Pokémon World Tournament (PWT)                       |
-| Boss Rush                        |           Pokémon Black2/White2 | Pokémon World Tournament Final Battle                        |
+| Battle Arena                     |                           Pokémon Black & White 2 | Pokémon World Tournament (PWT)                       |
+| Boss Rush                        |           Pokémon Black & White 2 | Pokémon World Tournament Final Battle                        |
 | S Rank                           | Kirby Planet Robobot                                     | One Last Shot                                |
 
 # Table with custom replacements
@@ -97,8 +97,8 @@ Come on, give it a try, you're not gonna regret it.
 | muGlitch           | NieR: Automata       | Pascal (No Vocals)                        |
 
 # Alternative Sound Replacement:
-| Origin                         | New track sourse                                                 | New track                              | 
-| Battle 2                       | Persona 4: Dancing All Night       | Time To Make History        |
+| Origin                         | New track sourse                                                 | New track                              | ------------------ | -------------------- | ----------------------------------------- |
+| Battle 2           | Persona 4: Dancing All Night       | Time To Make History        |
 
 # Finally! Your installation instruction
 
