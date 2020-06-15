@@ -13,7 +13,7 @@ Come on, give it a try, you're not gonna regret it.
 | Origin                         | New track sourse                                                 | New track                                       |
 | -------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
 | Title                            | Terraria: Calamity OST                                   | The Tale of a Cruel World                    |
-| Mysterious Place                 | Space Fantasy                                            | Super Mario Galaxy                           |
+| Mysterious Place                 | Super Mario Galaxy                                       |    Space Fantasy                            |
 | Fierce Battle                    | Pokémon Black & White                          | Elite Four                                             |
 | Distant Future                   | I say we replace every track? So it's a lie. |                                              |
 | Awakened                         | A Hat in Time                                            | Clocktowers Beneath the Sea                  |
@@ -95,10 +95,6 @@ Come on, give it a try, you're not gonna regret it.
 | Fanfare            |  Pokemon X & Y    | Obtained a gym badge                         |
 | Dream              | Final Fantasy VII    | Secrets Sleeping in the Deep Sea          |
 | muGlitch           | NieR: Automata       | Pascal (No Vocals)                        |
-
-# Alternative Sound Replacement:
-| Origin                         | New track sourse                                                 | New track                              | ------------------ | -------------------- | ----------------------------------------- |
-| Battle 2           | Persona 4: Dancing All Night       | Time To Make History        |
 
 # Finally! Your installation instruction
 
