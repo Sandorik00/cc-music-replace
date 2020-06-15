@@ -8,73 +8,73 @@ Come on, give it a try, you're not gonna regret it.
 
 ###### If you already bored just go to [Installation](https://github.com/Sandorik00/cc-music-replace#finally-your-installation-instruction)
 
-# Table with replaced tracks
+# The Main Replacement:
 
 | Origin                         | New track sourse                                                 | New track                                       |
 | -------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
-| Title                            | Calamity OST                                             | The Tale of a Cruel World                    |
+| Title                            | Terraria: Calamity OST                                   | The Tale of a Cruel World                    |
 | Mysterious Place                 | Space Fantasy                                            | Super Mario Galaxy                           |
-| Fierce Battle                    | Pokemon Black                                 | Elite Four                                             |
+| Fierce Battle                    | Pokémon Black & White                          | Elite Four                                             |
 | Distant Future                   | I say we replace every track? So it's a lie. |                                              |
 | Awakened                         | A Hat in Time                                            | Clocktowers Beneath the Sea                  |
 | Cargo Hold                       | Mario & Luigi: Dream Team        |Dreamy Mushrise Winds                                    |                                              |
 | Battle 1                         | Octopath Traveler                                        | Battle I                                     |
-| M.S. Solar                       | Pokémon Black 2 & White 2     |Aspertia City                                  |                                              |
+| M.S. Solar                       | Pokémon Black & White 2       |Aspertia City                                  |                                              |
 | Welcome to CrossWorlds           | Ori & The Blind Forest                                   | The Spirit Tree                              |
-| Challenge 1                      |  Super Smash Bros.  |Final Destination (Delta Mix)                            |                                              |
+| Challenge 1                      | SilvaGunner         |Final Destination (Delta Mix)                            |                                              |
 | Taking What Does Not Belong      | A Hat in Time  |Snatcher's Contractual Obligations                       |                                              |
 | Boss Battle                      |  Persona 5: Scramble | Blooming Villain                   |                                              |
 | CrossCounter!                    | Shovel Knight                                            | The Rival (Black Knight - First Battle)      |
 | Escape                           | Deltarune | Chase                                          |                                              |
-| Newcomer's Bridge                | Pokemon Heart Gold                                       | Route 29                                     |
+| Newcomer's Bridge                | Pokemon Heart Gold & Soul Silve                          | Route 29                                     |
 | Rhombus Dungeon                  |  Celeste | First Steps                                     |                                              |
 | Challenge 2                      | Sonic Unleashed                                          | vs. Titan & Big Mother                       |
 | Emilie theme                     | Sonic Unleashed                                          | Spagonia (Night)                             |
 | Apollo Theme                     | Ace Attorney                                             | Cornered                                     |
-| Rookie Harbor                    | Gravity Rush OST                                         | Downtown                                     |
+| Rookie Harbor                    | Gravity Rush                                             | Downtown                                     |
 | Autumn's Rise                    | Xenoblade Chronicles                                     | Gaur Plains                                  |
 | Battle 2                         | Etrian Odyssey IV                                        | Battlefield - Storm                   |
 | Travelling Together              |                                                     Undertale | Home                                     |
-| Lea!                             |                    Pokemon Sun & Moon | Lillie’s Theme                                   |
-| Bergen Trail                     | Pokemon Diamond & Pearl                                  | Route 216 (Night)                            |
-| Bergen Village                   | Final Fantasy 7                                          | Cosmo Canyon                                 |
-| Briefing                         |               Final Fantasy 7 | Cid's Theme                              |
+| Lea!                             |                    Pokémon Sun & Moon | Lillie’s Theme                                   |
+| Bergen Trail                     | Pokémon Diamond & Pearl                                  | Route 216 (Night)                            |
+| Bergen Village                   | Final Fantasy VII                                        | Cosmo Canyon                                 |
+| Briefing                         |               Enrico Deiana   | Cid's Theme                              |
 | First Scholars                   |                         Mario Odyssey | Poolside Rest                                |
-| Temple Mine                      | TLOZelda | Minish Cap Remaster Temple of Droplets          |                                              |
+| Temple Mine                      | Baptiste Robert |              Temple of Droplets          |                                              |
 | Improvising                      |                           Persona 5 | Life Goes On                                    |
-| Maroon Valley                    | NieR Automata                                            | Memories of Dust                             |
-| Ba'kii Kum                       | Pokemon Black & White                                    | Driftveil City                               |
+| Maroon Valley                    | NieR: Automata                                           | Memories of Dust                             |
+| Ba'kii Kum                       | Pokémon Black & White                                    | Driftveil City                               |
 | Shocking Reveal                  |                   Pokemon Sun & Moon | Unsettling Atmosphere                                   |
 | Temple of the Valley             |                                Sonic Adventure | Tricky Maze                              |
-| Lucid Dream                      | Final Fantasy 7                                          | Chasing the Black-Caped Man                  |
+| Lucid Dream                      | Final Fantasy VII                                        | Chasing the Black-Caped Man                  |
 | Autumn's Fall                    | The Legend of Zelda: Spirit Tracks                       | Realm Overworld                              |
-| Raid                             |                          Pokemon Sword & Shield | Battle Tower Theme                       |
-| The Expirience                   | Pokémon B2/W2                                            | Battle! Colress                              |
+| Raid                             |                          Pokémon Sword & Shield | Battle Tower Theme                       |
+| The Expirience                   | Pokémon Black & White 2                                  | Battle! Colress                              |
 | Imprisoned                       | Final Fantasy VIII                                       | Galbadia Garden                              |
-| Vermillion Wasteland             | Antibirth OST                                            | Drowning                                     |
+| Vermillion Wasteland             | The Binding of Isaac: Antibirth                          | Drowning                                     |
 | Battle 3                         | A Hat in Time                                            | You Are All Bad Guys phase 1                   |
-| Confrontation                    | Final Fantasy 7 Remake                                   | 7 Seconds till the End                       |
-| Sadness                          | Pokemon Black                                            | Unwavering Heart                             |
+| Confrontation                    | Final Fantasy VII: Remake                                | 7 Seconds till the End                       |
+| Sadness                          | Pokémon Black & White                                    | Unwavering Heart                             |
 | Infiltration, Stealth Side quest |  Metal Gear Solid | Encounter                              |                                              |
-| Separated Again                  | Lifeformed                                               | The Magnetic Tree (Fastfall - Dustforce OST) |
+| Separated Again                  | Fastfall - Dustforce OST                                 | Lifeformed - The Magnetic Tree               |
 | Hack Your Way!                   | Sonic Colors                                             | Terminal Velocity act 1                      |
-| Escape Again                     | Final Fantasy 7 Remake                                   | Hurry!                                       |
+| Escape Again                     | Final Fantasy VII: Remake                                | Hurry!                                       |
 | Exponential Growth               | Undertale                                                | Hopes & Dreams                               |
 | Exponential Conclusion           | Undertale                                                | SAVE the World                               |
 | Past Events                      | Valkyrie Profile 2 OST [Silmeria Side] | A Stable Float                  |                                              |
-| Gaia's Garden                    | NieR Automata                                            | Forest Kingdom                               |
-| Basin Keep                       | Celeste                                                  | Mirror Temple                                |
-| Temple of the Lake               | Chrono Cross OST                                         | Chronopolis                                  |
+| Gaia's Garden                    | NieR: Automata                                           | Forest Kingdom                               |
+| Basin Keep                       | Celeste B-Sides                                          | Mello - Mirror Temple                              |
+| Temple of the Lake               | Chrono Cross                                             | Chronopolis                                  |
 | Temple of Thunder                |                             The Legend of Zelda: Twilight Princess | Palace of Twilight       |
 | Temple of Grand Tree             | The Legend of Zelda: Breath of The Wild                  | The Final Trial                              |
 | Sapphire Ridge                   | Sonic Unleashed                                          | Jungle Joyride (Night)                       |
-| Rhombus Square                   | Super Mario Odyssey                                      | New Donk City                                |
-| Old Hideout                      | Antibirth OST                                            | Journey from a Jar to the Sky (Planetarium)  |
+| Rhombus Square                   | Super Mario Odyssey                                      | New Donk City (Daytime)                               |
+| Old Hideout                      | The Binding of Isaac: Antibirth                          | Journey from a Jar to the Sky                |
 | Shizuka                          | Touhou: Perfect Cherry Blossom                           | Border of Life                               |
 | True Intention                   | Gurren Lagann                                            | What the Hell are You Thinking in the Dark!! |
-| Infiltration                     | Final Fantasy 7 Remake                                   | Bombing Mission                              |
-| Vermillion Dungeon               | Pokemon Sun & Moon                                       | Ultra Megalopolis                            |
-| The Ultimate Experience          | Final Fantasy VI                                         | Dancing Mad (Symphonic Arrange)              |
+| Infiltration                     | Final Fantasy VII: Remake                                | Bombing Mission                              |
+| Vermillion Dungeon               | Pokémon Sun & Moon                                       | Ultra Megalopolis                            |
+| The Ultimate Experience          | Sangnoksu                                                | Dancing Mad (Symphonic Arrange)              |
 | Ending                           |                               Super Mario World | Ending Theme                            |
 | Battle Arena                     |                           Pokémon Black2/White2 | Pokémon World Tournament (PWT)                       |
 | Boss Rush                        |           Pokémon Black2/White2 | Pokémon World Tournament Final Battle                        |
@@ -84,18 +84,21 @@ Come on, give it a try, you're not gonna regret it.
 
 |   Original event                 |              Music source        |             Music name                              |
 | ------------------ | -------------------- | ----------------------------------------- |
-| Sephisloth Theme   | Advent Children      | One Winged Angel                          |
+| Sephisloth Theme   | Final Fantasy VII: Advent Children      | One Winged Angel                          |
 | Blue Hedgeheg      | Sonic Mania          | Metal Sonic                               |
 | Peng Dakara        | A Hat in Time        | The Battle of Award 42                    |
-| Sand Shark         | Calamity OST         | The Filthy Mind (featuring SixteenInMono) |
+| Sand Shark         | Terraria: Calamity OST         | The Filthy Mind (featuring SixteenInMono) |
 | Yellow Angler-Fish | Sonic Adventure      | Chaos 6                                   |
 | PandzaMk.II        | Super Mario Odyssey  | RoboBrood Battle                          |
-| DON'T USE THIS     | Deltarune            | The World Revolving (Sonic Advance Arr.)  |
+| DON'T USE THIS     | Parabeetle X         | The World Revolving (Sonic Advance Arr.)  |
 | Ability got        |   Legend of Zelda: A Link Between Worlds | Item fanfare    |
 | Fanfare            |  Pokemon X & Y    | Obtained a gym badge                         |
-| Dream              | Final Fantasy 7      | Secrets Sleeping in the Deep Sea          |
+| Dream              | Final Fantasy VII    | Secrets Sleeping in the Deep Sea          |
 | muGlitch           | NieR: Automata       | Pascal (No Vocals)                        |
 
+# Alternative Sound Replacement:
+| Origin                         | New track sourse                                                 | New track                              | 
+| Battle 2                       | Persona 4: Dancing All Night       | Time To Make History        |
 
 # Finally! Your installation instruction
 
