@@ -8,7 +8,6 @@ ig.module('game.feature.loadable-replace')
         this.clearResumeOnChange();
         if (a.attributes && a.attributes.bgm) {
           this.mapDefaultTrackSet && this.mapDefaultTrackSet.clearCached();
-          console.log(a);
           this.mapDefaultTrackSet = this.loadTrackSet(a.attributes.bgm);
           if (a.name === "autumn/path-1-3") {
             a.entities[284].settings.event[19] = {
