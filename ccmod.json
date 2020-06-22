@@ -1,0 +1,11 @@
+{
+	"id": "cc-music-replace",
+	"title": "Music replace pack",
+	"description": {
+		"en_US": "All ingame music replacement with from other games OST's",
+		"ru_RU": "Замена всей игровой музыки на саундтреки из других игр"
+	},
+	"version": "1.0.0",
+	"postload": "postload.js",
+	"prestart": "prestart.js"
+}
