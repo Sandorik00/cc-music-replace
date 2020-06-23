@@ -1,11 +1,4 @@
-ig.module("game.feature.loadable-replace")
-  .requires(
-    "impact.base.loader",
-    "impact.feature.bgm.bgm",
-    "game.feature.bgm.playlist"
-  )
-  .defines(function () {
-    ccmod3.resources.jsonPatches.add(
+ccmod3.resources.jsonPatches.add(
       "data/maps/autumn/path-1-3.json",
       (data) => {
         data.entities[284].settings.event[19] = {
@@ -125,4 +118,3 @@ ig.module("game.feature.loadable-replace")
          });
       }
     );
-  });
