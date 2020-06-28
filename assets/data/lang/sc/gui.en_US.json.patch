@@ -1,0 +1,13 @@
+{
+  "labels": {
+    "options": {
+      "headers": {
+        "bruh-voice": "Music pack"
+      },
+      "voice-tracks": {
+        "name": "Enable voice music",
+        "description": "Option for replacing replaced music to another"
+      }
+    }
+  }
+}
