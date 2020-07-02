@@ -488,21 +488,3 @@ ig.module("game.feature.bgm.replace-music")
 
     ig.Bgm.preloadStartTrack("title");
   });
-
-sc.MusicOptionsAddon = ig.GameAddon.extend({
-  init() {
-    if (sc.options.get("voice-tracks")) {
-      ig.merge(ig.BGM_TRACK_LIST, {
-        fieldBattle: {
-          path: "media/bgm/Time-To-Make-History-2.mp3",
-          loopEnd: 151.579,
-          volume: 0.5,
-          introPath: "media/bgm/Time-To-Make-History-i.mp3",
-          introEnd: 10.42,
-        },
-      });
-    }
-  },
-});
-
-ig.addGameAddon(() => (sc.musicOptionsAddon = new sc.MusicOptionsAddon()));

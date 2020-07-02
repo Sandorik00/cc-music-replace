@@ -6,5 +6,6 @@
 		"ru_RU": "Замена всей игровой музыки на саундтреки из других игр"
 	},
 	"version": "1.0.0",
-	"prestart": "prestart.js"
+	"prestart": "prestart.js",
+	"poststart": "poststart.js"
 }
