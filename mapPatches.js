@@ -1,4 +1,4 @@
-ccmod3.resources.jsonPatches.add("data/maps/autumn/path-1-3.json", (data) => {
+ccmod.resources.jsonPatches.add("data/maps/autumn/path-1-3.json", (data) => {
   data.entities[284].settings.event[19] = {
     bgm: "bluehedgeheg",
     volume: 1,
@@ -7,7 +7,7 @@ ccmod3.resources.jsonPatches.add("data/maps/autumn/path-1-3.json", (data) => {
   };
 });
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/jungle/caves/infested-cave-02.json",
   (data) => {
     data.entities[173].settings.event[29] = {
@@ -19,7 +19,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add("data/maps/arid/tower-1.json", (data) => {
+ccmod.resources.jsonPatches.add("data/maps/arid/tower-1.json", (data) => {
   data.entities[242].settings.event[31] = {
     bgm: "stealth",
     volume: 1,
@@ -28,7 +28,7 @@ ccmod3.resources.jsonPatches.add("data/maps/arid/tower-1.json", (data) => {
   };
 });
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/jungle/grove/lost-shrine-04.json",
   (data) => {
     data.entities[190].settings.event[21] = {
@@ -40,7 +40,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/forest/caves/cave-013-pandza-02.json",
   (data) => {
     data.entities[101].settings.event[41] = {
@@ -52,7 +52,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/bergen-trail/cave/cave-6-3.json",
   (data) => {
     data.entities[10].settings.event[10] = {
@@ -64,7 +64,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/heat/caves/cliffs-temple-03.json",
   (data) => {
     data.entities[8].settings.event[40] = {
@@ -76,7 +76,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/heat/special/glitch-boss.json",
   (data) => {
     data.entities[2].settings.event[14] = {
@@ -88,7 +88,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/maps/jungle/caves/smuggle-route-2.json",
   (data) => {
     data.entities[3].settings.npcStates[1].event.quest[3][0][0] = {
@@ -100,7 +100,7 @@ ccmod3.resources.jsonPatches.add(
   }
 );
 
-ccmod3.resources.jsonPatches.add(
+ccmod.resources.jsonPatches.add(
   "data/enemies/jungle/special/guard.json",
   (data) => {
     data.actions.Detect.splice(2, 0, {
