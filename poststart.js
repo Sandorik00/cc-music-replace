@@ -13,7 +13,7 @@ sc.Model.addObserver(sc.options, {
           introEnd: 10.42,
         },
       });
-    } else if (!sc.options.get("voice-tracks")) {
+    } else {
       ig.merge(ig.BGM_TRACK_LIST, {
         fieldBattle: {
           path: "media/bgm/battle2.mp3",
