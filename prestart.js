@@ -492,7 +492,21 @@ ig.module("game.feature.bgm.replace-music")
         loopEnd: 101.054,
         volume: 0.5,
       },
+      "secret-base": {
+        path: "media/bgm/secret-base.mp3",
+        loopEnd: 75.55,
+        volume: 0.5,
+      },
     });
 
     ig.Bgm.preloadStartTrack("title");
+
+    ig.merge(ig.BGM_DEFAULT_TRACKS, {
+      lab: {
+        field: {
+          track: "secret-base",
+          volume: 1,
+        },
+      },
+    });
   });
