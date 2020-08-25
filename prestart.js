@@ -477,10 +477,10 @@ ig.module("game.feature.bgm.replace-music")
         volume: 0.5,
       },
       sandShark: {
-        path: "media/bgm/SandShark.mp3",
+        path: "media/bgm/sandshark.mp3",
         loopEnd: 116.234,
         volume: 0.5,
-        introPath: "media/bgm/SandShark-i.mp3",
+        introPath: "media/bgm/sandshark-i.mp3",
         introEnd: 1.389,
       },
       USE_THIS: {
