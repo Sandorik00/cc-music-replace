@@ -8,7 +8,7 @@ sc.Model.addObserver(sc.options, {
         fieldBattle: {
           path: "media/bgm/Time-To-Make-History-2.mp3",
           loopEnd: 151.579,
-          volume: 0.5,
+          volume: 0.35,
           introPath: "media/bgm/Time-To-Make-History-i.mp3",
           introEnd: 10.42,
         },
@@ -18,7 +18,7 @@ sc.Model.addObserver(sc.options, {
         fieldBattle: {
           path: "media/bgm/battle2.mp3",
           loopEnd: 202.698,
-          volume: 0.5,
+          volume: 0.35,
           introPath: "media/bgm/battle2-i.mp3",
           introEnd: 5.349,
         },

@@ -19,10 +19,8 @@ ig.module("game.feature.bgm.replace-music")
       },
       intro: {
         path: "media/bgm/awakened.mp3",
-        loopEnd: 206.888,
+        loopEnd: 99.301,
         volume: 0.5,
-        introPath: "media/bgm/awakened-i.mp3",
-        introEnd: 8.36,
       },
       "tutorial-battle": {
         path: "media/bgm/battle1.mp3",
@@ -33,10 +31,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       challenge: {
         path: "media/bgm/challenge1.mp3",
-        loopEnd: 75.413,
+        loopEnd: 75.428,
         volume: 0.7,
         introPath: "media/bgm/challenge1-i.mp3",
-        introEnd: 2.9,
+        introEnd: 9.642,
       },
       title: {
         path: "media/bgm/title.mp3",
@@ -47,8 +45,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       "cargoship-exterior": {
         path: "media/bgm/solarship.mp3",
-        loopEnd: 75.441,
+        loopEnd: 75.368,
         volume: 0.5,
+	introPath: "media/bgm/solarship-i.mp3",
+        introEnd: 27.916,
       },
       lolfanfare: {
         path: "media/bgm/lolefanfare.mp3",
@@ -188,8 +188,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       heatDungeon: {
         path: "media/bgm/temple.mp3",
-        loopEnd: 237.958,
+        loopEnd: 118.953,
         volume: 0.5,
+	introPath: "media/bgm/temple-i.mp3",
+        introEnd: 11.840,
       },
       shockDungeon: {
         path: "media/bgm/thunder.mp3",
@@ -203,10 +205,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       treeDungeon: {
         path: "media/bgm/grandtree.mp3",
-        loopEnd: 132.647,
-        volume: 2.5,
+        loopEnd: 227.368,
+        volume: 0.7,
         introPath: "media/bgm/grandtree-i.mp3",
-        introEnd: 2.251,
+        introEnd: 106.45,
       },
       jungle: {
         path: "media/bgm/garden.mp3",
@@ -240,7 +242,9 @@ ig.module("game.feature.bgm.replace-music")
         introPath: "media/bgm/improvising-i.mp3",
         introEnd: 17.596,
       },
-      lea: { path: "media/bgm/lea.mp3", loopEnd: 109.931, volume: 0.5 },
+      lea: { path: "media/bgm/lea.mp3", loopEnd: 54.976, volume: 0.5 },
+ 	introPath: "media/bgm/lea-i.mp3",
+        introEnd: 8.343,
       "dreamsequence-intro": {
         path: "media/bgm/dream1.mp3",
         loopEnd: 106.511,
@@ -313,8 +317,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       evoEscape: {
         path: "media/bgm/escapeagain.mp3",
-        loopEnd: 192.078,
+        loopEnd: 64.004,
         volume: 0.5,
+	introPath: "media/bgm/escapeagain-i.mp3",
+        introEnd: 11.244,
       },
       sergeyExposition: {
         path: "media/bgm/pastevents.mp3",
@@ -356,10 +362,10 @@ ig.module("game.feature.bgm.replace-music")
       },
       rhombusSquare2: {
         path: "media/bgm/rhombussquare.mp3",
-        loopEnd: 166.769,
+        loopEnd: 166.782,
         volume: 0.5,
         introPath: "media/bgm/rhombussquare-i.mp3",
-        introEnd: 4.075,
+        introEnd: 6.098,
       },
       autumnsFall: {
         path: "media/bgm/autumnsfall.mp3",
@@ -370,7 +376,7 @@ ig.module("game.feature.bgm.replace-music")
       },
       snailBattle1: {
         path: "media/bgm/growth.mp3",
-        loopEnd: 145.964,
+        loopEnd: 134.973,
         volume: 0.5,
         introPath: "media/bgm/growth-i.mp3",
         introEnd: 22.534,
@@ -467,17 +473,15 @@ ig.module("game.feature.bgm.replace-music")
       },
       pengDakara: {
         path: "media/bgm/pengdakara.mp3",
-        loopEnd: 120.518,
+        loopEnd: 120.634,
         volume: 0.5,
-        introPath: "media/bgm/pengdakara-i.mp3",
-        introEnd: 1.296,
       },
       sandShark: {
         path: "media/bgm/SandShark.mp3",
-        loopEnd: 118.918,
+        loopEnd: 116.234,
         volume: 0.5,
         introPath: "media/bgm/SandShark-i.mp3",
-        introEnd: 5.34,
+        introEnd: 1.389,
       },
       USE_THIS: {
         path: "media/bgm/USE_THIS.mp3",
