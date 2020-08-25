@@ -47,7 +47,7 @@ ig.module("game.feature.bgm.replace-music")
         path: "media/bgm/solarship.mp3",
         loopEnd: 75.368,
         volume: 0.5,
-	introPath: "media/bgm/solarship-i.mp3",
+        introPath: "media/bgm/solarship-i.mp3",
         introEnd: 27.916,
       },
       lolfanfare: {
@@ -190,8 +190,8 @@ ig.module("game.feature.bgm.replace-music")
         path: "media/bgm/temple.mp3",
         loopEnd: 118.953,
         volume: 0.5,
-	introPath: "media/bgm/temple-i.mp3",
-        introEnd: 11.840,
+        introPath: "media/bgm/temple-i.mp3",
+        introEnd: 11.84,
       },
       shockDungeon: {
         path: "media/bgm/thunder.mp3",
@@ -242,9 +242,13 @@ ig.module("game.feature.bgm.replace-music")
         introPath: "media/bgm/improvising-i.mp3",
         introEnd: 17.596,
       },
-      lea: { path: "media/bgm/lea.mp3", loopEnd: 54.976, volume: 0.5 },
- 	introPath: "media/bgm/lea-i.mp3",
+      lea: {
+        path: "media/bgm/lea.mp3",
+        loopEnd: 54.976,
+        volume: 0.5,
+        introPath: "media/bgm/lea-i.mp3",
         introEnd: 8.343,
+      },
       "dreamsequence-intro": {
         path: "media/bgm/dream1.mp3",
         loopEnd: 106.511,
@@ -319,7 +323,7 @@ ig.module("game.feature.bgm.replace-music")
         path: "media/bgm/escapeagain.mp3",
         loopEnd: 64.004,
         volume: 0.5,
-	introPath: "media/bgm/escapeagain-i.mp3",
+        introPath: "media/bgm/escapeagain-i.mp3",
         introEnd: 11.244,
       },
       sergeyExposition: {
