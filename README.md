@@ -6,6 +6,10 @@ Not even every single, we went even further and added several new tracks to boss
 Why do we did this? *Just for fun lol*.
 Come on, give it a try, you're not gonna regret it.
 
+Here's an example how it'll sound in the game (just click on image):
+
+[![youtubeImage](https://www.radicalfishgames.com/wp-content/uploads/jungle-clearing-600x338.png)](https://youtu.be/J7D7mb0Spt4)
+
 ###### If you already bored just go to [Installation](https://github.com/Sandorik00/cc-music-replace#finally-your-installation-instruction)
 
 # The Main Replacement:
