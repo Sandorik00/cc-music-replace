@@ -5,8 +5,8 @@
         "bruh-voice": "Music pack"
       },
       "voice-tracks": {
-        "name": "Enable voice music",
-        "description": "Option for replacing replaced music to another"
+        "name": "Enable songs",
+        "description": "Option for replacing replaced music to songs"
       }
     }
   }
