@@ -27,7 +27,7 @@ ig.module('game.feature.bgm.replace-music')
         loopEnd: 86.711,
         volume: 0.5,
         introPath: 'media/bgm/battle1-i.mp3',
-        introEnd: 71.227,
+        introEnd: 727,
       },
       challenge: {
         path: 'media/bgm/challenge1.mp3',
@@ -534,35 +534,35 @@ ig.module('game.feature.bgm.replace-music')
       "final-dungeon-f1": {
         path: "media/bgm/final-dungeon-f1.mp3",
         loopEnd: 75.789,
-        volume: 0.7,
+        volume: 2,
         introPath: 'media/bgm/final-dungeon-f1-i.mp3',
         introEnd: 7.157
       },
       "final-dungeon-f2": {
         path: "media/bgm/final-dungeon-f2.mp3",
         loopEnd: 75.789,
-        volume: 0.7,
+        volume: 2,
         introPath: 'media/bgm/final-dungeon-f2-i.mp3',
         introEnd: 7.155
       },
       "final-dungeon-f3": {
         path: "media/bgm/final-dungeon-f3.mp3",
         loopEnd: 56.842,
-        volume: 0.7,
+        volume: 2,
         introPath: 'media/bgm/final-dungeon-f3-i.mp3',
         introEnd: 26.100
       },
       "final-dungeon-f4": {
         path: "media/bgm/final-dungeon-f4.mp3",
         loopEnd: 56.842,
-        volume: 0.7,
+        volume: 2,
         introPath: 'media/bgm/final-dungeon-f4-i.mp3',
         introEnd: 26.105
       },
       "final-dungeon-f5": {
         path: "media/bgm/final-dungeon-f5.mp3",
         loopEnd: 53.333,
-        volume: 0.7,
+        volume: 2,
         introPath: 'media/bgm/final-dungeon-f5-i.mp3',
         introEnd: 24.512
       },
@@ -590,6 +590,26 @@ ig.module('game.feature.bgm.replace-music')
           track: 'secret-base',
           volume: 1,
         },
+      },
+      "finalDng-f1": {
+        field: { track: "final-dungeon-f1", volume: 1 },
+        battle: { track: "aridBattle", volume: 1 },
+      },
+      "finalDng-f2": {
+        field: { track: "final-dungeon-f2", volume: 1 },
+        battle: { track: "aridBattle", volume: 1 },
+      },
+      "finalDng-f3": {
+        field: { track: "final-dungeon-f3", volume: 1 },
+        battle: { track: "aridBattle", volume: 1 },
+      },
+      "finalDng-f4": {
+        field: { track: "final-dungeon-f4", volume: 1 },
+        battle: { track: "aridBattle", volume: 1 },
+      },
+      "finalDng-f5": {
+        field: { track: "final-dungeon-f5", volume: 1 },
+        battle: { track: "aridBattle", volume: 1 },
       },
     });
   });

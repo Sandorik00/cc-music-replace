@@ -139,6 +139,47 @@ ccmod.resources.jsonPatches.add(
 ccmod.resources.jsonPatches.add(
   new RegExp(/extension\/post-game\/data\/maps\/final-dng\/g\/.+/),
   (data) => {
-    data.attributes.bgm = "final-dungeon-f1";
+    data.attributes.bgm = "finalDng-f1";
   }
-)
+);
+
+ccmod.resources.jsonPatches.add(
+  new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b1\/.+/),
+  (data) => {
+    data.attributes.bgm = "finalDng-f2";
+  }
+);
+
+ccmod.resources.jsonPatches.add(
+  new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b2\/.+/),
+  (data) => {
+    data.attributes.bgm = "finalDng-f3";
+  }
+);
+
+ccmod.resources.jsonPatches.add(
+  new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b3\/.+/),
+  (data) => {
+    data.attributes.bgm = "finalDng-f4";
+  }
+);
+
+ccmod.resources.jsonPatches.add(
+  new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b4\/.+/),
+  (data) => {
+    data.attributes.bgm = "finalDng-f5";
+  }
+);
+
+ccmod.resources.jsonPatches.add(
+  "data/maps/rhombus-sqr/interior/autobahn.json",
+  (data) => {
+    let entity = data.entities.find(
+      (ent) => ent.type === "EventTrigger" && ent.settings.name === "intro"
+    );
+    let pushBgmEvent = entity.settings.event.find(
+      (evt) => evt.type === "PLAY_BGM" && evt.bgm === "bossRush"
+    );
+    pushBgmEvent.bgm = "Rhombus-Expressway";
+  }
+);
