@@ -1,0 +1,26 @@
+beach - 1:23.999958
+beach-i - 43.983167
+disco-full - 15.745556
+disco-low - 15.679547
+evo-lab-dissonant - 1:26.857483
+evo-lab-heartbeat - 36.006417
+evo-lab-heartbeat-i - 9.613764
+evo-lab-melody - 2:14.328390
+evo-lab-mid - 1:12.818277
+evo-lab-subtle - 20.503968
+final-dungeon-f1 - 1:15.789138 (сделать немного громче)
+final-dungeon-f1-i - 7.157143 (сделать немного громче)
+final-dungeon-f2 - 1:15.789093 (сделать немного громче)
+final-dungeon-f2-i - 7.155170 (сделать немного громче)
+final-dungeon-f3 - 56.842086 (сделать немного громче)
+final-dungeon-f3-i - 26.100454 (сделать немного громче)
+final-dungeon-f4 - 56.842041 (сделать немного громче)
+final-dungeon-f4-i - 26.105488 (сделать немного громче)
+final-dungeon-f5 - 53.333311 (сделать немного громче)
+final-dungeon-f5-i - 24.512041 (сделать немного громче)
+godBoss - 3:23.993833
+godBoss-i - 1:42.012631
+mysterious - 1.06.618957
+Rhombus-Expressway - 8:45.548912
+Rhombus-Expressway-i - 40.525964
+grandtree - 3:53.928938

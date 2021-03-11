@@ -135,3 +135,10 @@ ccmod.resources.jsonPatches.add(
     });
   }
 );
+
+ccmod.resources.jsonPatches.add(
+  new RegExp(/extension\/post-game\/data\/maps\/final-dng\/g\/.+/),
+  (data) => {
+    data.attributes.bgm = "final-dungeon-f1";
+  }
+)
