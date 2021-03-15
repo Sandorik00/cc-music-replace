@@ -505,30 +505,30 @@ ig.module('game.feature.bgm.replace-music')
       discoLow: { path: "media/bgm/disco-low.mp3", loopEnd: 15.679, volume: 1 },
       discoFull: { path: "media/bgm/disco-full.mp3", loopEnd: 15.745, volume: 1 },
       evolabSubtle: {
-        path: "media/bgm/evo-lab/evo-lab-subtle.mp3",
+        path: "media/bgm/evo-lab-subtle.mp3",
         loopEnd: 20.503,
         volume: 0.45,
       },
       evolabMelody: {
-        path: "media/bgm/evo-lab/evo-lab-melody.mp3",
+        path: "media/bgm/evo-lab-melody.mp3",
         loopEnd: 124.328,
         volume: 0.5,
       },
       evolabDissonant: {
-        path: "media/bgm/evo-lab/evo-lab-dissonant.mp3",
+        path: "media/bgm/evo-lab-dissonant.mp3",
         loopEnd: 86.857,
         volume: 0.5,
       },
       evolabMid: {
-        path: "media/bgm/evo-lab/evo-lab-mid.mp3",
+        path: "media/bgm/evo-lab-mid.mp3",
         loopEnd: 72.818,
         volume: 0.5,
       },
       evolabHeartbeat: {
-        path: "media/bgm/evo-lab/evo-lab-heartbeat.mp3",
+        path: "media/bgm/evo-lab-heartbeat.mp3",
         loopEnd: 36.006,
         volume: 0.5,
-        introPath: 'media/bgm/evo-lab/evo-lab-heartbeat-i.mp3',
+        introPath: 'media/bgm/evo-lab-heartbeat-i.mp3',
         introEnd: 9.613,
       },
       "final-dungeon-f1": {
