@@ -567,10 +567,10 @@ ig.module('game.feature.bgm.replace-music')
         introEnd: 24.512
       },
       godBoss: {
-        introPath: "media/bgm/godBoss-i.mp3",
-        introEnd: 102.012,
-        path: "media/bgm/godBoss.mp3",
-        loopEnd: 203.993,
+        introPath: "media/bgm/godBattle-i.mp3",
+        introEnd: 42.28,
+        path: "media/bgm/godBattle.mp3",
+        loopEnd: 190.879,
         volume: 0.5,
       },
       "Rhombus-Expressway": {

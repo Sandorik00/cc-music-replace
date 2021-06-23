@@ -146,7 +146,7 @@ ccmod.resources.jsonPatches.add(
 ccmod.resources.jsonPatches.add(
   new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b1\/.+/),
   (data) => {
-    data.attributes.bgm = "finalDng-f2";
+    data.attributes.bgm = "finalDng-f1";
   }
 );
 
@@ -160,7 +160,7 @@ ccmod.resources.jsonPatches.add(
 ccmod.resources.jsonPatches.add(
   new RegExp(/extension\/post-game\/data\/maps\/final-dng\/b3\/.+/),
   (data) => {
-    data.attributes.bgm = "finalDng-f4";
+    data.attributes.bgm = "finalDng-f3";
   }
 );
 
