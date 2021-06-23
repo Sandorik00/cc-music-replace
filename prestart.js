@@ -571,7 +571,7 @@ ig.module('game.feature.bgm.replace-music')
         introEnd: 42.28,
         path: 'media/bgm/godBattle.mp3',
         loopEnd: 190.879,
-        volume: 0.5,
+        volume: 0.4,
       },
       'Rhombus-Expressway': {
         path: 'media/bgm/Rhombus-Expressway.mp3',

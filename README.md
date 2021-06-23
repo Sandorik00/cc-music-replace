@@ -111,17 +111,17 @@ Here's an example how it'll sound in the game (just click on image):
 
 # Finally! Your installation instruction
 
-### 0. Make sure you already installed [CCLoader](https://github.com/CCDirectLink/CCLoader#readme)
+### 0. Make sure you already installed [CCLoader3](https://github.com/dmitmel/ccloader3). Now there is precompiled alpha [builds](https://stronghold.crosscode.ru/~dmitmel/ccloader3) cuz it's not officially released yet... or I just forget to update this README.
 
-### 1. Go to [Releases](https://github.com/Sandorik00/cc-music-replace/releases) or [MEGA](https://mega.nz/file/SElRgAxC#7czzTvhdxR-I4ebLgg6S4uZmytZOYexyvp6HfPZAi3E)(contains 1.0.1 version for non-CCLoader3 users)
+### 1. Go to [Releases](https://github.com/Sandorik00/cc-music-replace/releases) or [MEGA](https://mega.nz/file/OdFBnaBb#hmdIOW3QfjB8OUNIiJ4dP0VfSXO8BhEb7QL4NeYgA98).
 
-### 2. Download archive
+### 2. Download archive.
 
-### 3. Unpack archive into `/CrossCode/assets/mods` directory
+### 3. Unpack archive into `/CrossCode/assets/mods` directory.
 
 ### 4. Profit!!
 
-### -69. There's no instruction yet for [CCLoader3](https://github.com/dmitmel/ccloader3) because it is not released, but [crosscode-ru](https://github.com/dmitmel/crosscode-ru) users already have it and can just start from the first point. Others should use version [1.0.1](https://github.com/Sandorik00/cc-music-replace/releases/tag/v1.0.1)
+### -69. If you have troubles with mod, have old version of CrossCode or just want use only original [CCLoader](https://github.com/CCDirectLink/CCLoader#readme) you should use version [1.0.1](https://github.com/Sandorik00/cc-music-replace/releases/tag/v1.0.1).
 
 # About
 
