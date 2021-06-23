@@ -162,6 +162,8 @@
     "media/bgm/vermillion.ogg",
     "media/sound/alertsoundmgs.ogg",
     "media/sound/battle/enemies/shredder/shredder-alert.ogg",
-    "media/sound/misc/EUROBEAT.ogg"
+    "media/sound/misc/EUROBEAT.ogg",
+    "media/bgm/godBattle-i.ogg",
+    "media/bgm/godBattle.ogg"
   ]
 }

@@ -502,84 +502,84 @@ ig.module('game.feature.bgm.replace-music')
         introPath: 'media/bgm/beach-i.mp3',
         introEnd: 43.983,
       },
-      discoLow: { path: "media/bgm/disco-low.mp3", loopEnd: 15.679, volume: 1 },
-      discoFull: { path: "media/bgm/disco-full.mp3", loopEnd: 15.745, volume: 1 },
+      discoLow: { path: 'media/bgm/disco-low.mp3', loopEnd: 15.679, volume: 1 },
+      discoFull: { path: 'media/bgm/disco-full.mp3', loopEnd: 15.745, volume: 1 },
       evolabSubtle: {
-        path: "media/bgm/evo-lab-subtle.mp3",
+        path: 'media/bgm/evo-lab-subtle.mp3',
         loopEnd: 20.503,
         volume: 0.45,
       },
       evolabMelody: {
-        path: "media/bgm/evo-lab-melody.mp3",
+        path: 'media/bgm/evo-lab-melody.mp3',
         loopEnd: 124.328,
         volume: 0.5,
       },
       evolabDissonant: {
-        path: "media/bgm/evo-lab-dissonant.mp3",
+        path: 'media/bgm/evo-lab-dissonant.mp3',
         loopEnd: 86.857,
         volume: 0.5,
       },
       evolabMid: {
-        path: "media/bgm/evo-lab-mid.mp3",
+        path: 'media/bgm/evo-lab-mid.mp3',
         loopEnd: 72.818,
         volume: 0.5,
       },
       evolabHeartbeat: {
-        path: "media/bgm/evo-lab-heartbeat.mp3",
+        path: 'media/bgm/evo-lab-heartbeat.mp3',
         loopEnd: 36.006,
         volume: 0.5,
         introPath: 'media/bgm/evo-lab-heartbeat-i.mp3',
         introEnd: 9.613,
       },
-      "final-dungeon-f1": {
-        path: "media/bgm/final-dungeon-f1.mp3",
+      'final-dungeon-f1': {
+        path: 'media/bgm/final-dungeon-f1.mp3',
         loopEnd: 75.789,
         volume: 2,
         introPath: 'media/bgm/final-dungeon-f1-i.mp3',
-        introEnd: 7.157
+        introEnd: 7.157,
       },
-      "final-dungeon-f2": {
-        path: "media/bgm/final-dungeon-f2.mp3",
+      'final-dungeon-f2': {
+        path: 'media/bgm/final-dungeon-f2.mp3',
         loopEnd: 75.789,
         volume: 2,
         introPath: 'media/bgm/final-dungeon-f2-i.mp3',
-        introEnd: 7.155
+        introEnd: 7.155,
       },
-      "final-dungeon-f3": {
-        path: "media/bgm/final-dungeon-f3.mp3",
+      'final-dungeon-f3': {
+        path: 'media/bgm/final-dungeon-f3.mp3',
         loopEnd: 56.842,
         volume: 2,
         introPath: 'media/bgm/final-dungeon-f3-i.mp3',
-        introEnd: 26.100
+        introEnd: 26.1,
       },
-      "final-dungeon-f4": {
-        path: "media/bgm/final-dungeon-f4.mp3",
+      'final-dungeon-f4': {
+        path: 'media/bgm/final-dungeon-f4.mp3',
         loopEnd: 56.842,
         volume: 2,
         introPath: 'media/bgm/final-dungeon-f4-i.mp3',
-        introEnd: 26.105
+        introEnd: 26.105,
       },
-      "final-dungeon-f5": {
-        path: "media/bgm/final-dungeon-f5.mp3",
+      'final-dungeon-f5': {
+        path: 'media/bgm/final-dungeon-f5.mp3',
         loopEnd: 53.333,
         volume: 2,
         introPath: 'media/bgm/final-dungeon-f5-i.mp3',
-        introEnd: 24.512
+        introEnd: 24.512,
       },
       godBoss: {
-        introPath: "media/bgm/godBattle-i.mp3",
+        introPath: 'media/bgm/godBattle-i.mp3',
         introEnd: 42.28,
-        path: "media/bgm/godBattle.mp3",
+        path: 'media/bgm/godBattle.mp3',
         loopEnd: 190.879,
         volume: 0.5,
       },
-      "Rhombus-Expressway": {
-        path: "media/bgm/Rhombus-Expressway.mp3",
+      'Rhombus-Expressway': {
+        path: 'media/bgm/Rhombus-Expressway.mp3',
         loopEnd: 525.548,
         volume: 0.5,
         introPath: 'media/bgm/Rhombus-Expressway-i.mp3',
-        introEnd: 40.525
-      }
+        introEnd: 40.525,
+      },
     });
 
     ig.Bgm.preloadStartTrack('title');
@@ -591,25 +591,25 @@ ig.module('game.feature.bgm.replace-music')
           volume: 1,
         },
       },
-      "finalDng-f1": {
-        field: { track: "final-dungeon-f1", volume: 1 },
-        battle: { track: "aridBattle", volume: 1 },
+      'finalDng-f1': {
+        field: { track: 'final-dungeon-f1', volume: 1 },
+        battle: { track: 'aridBattle', volume: 1 },
       },
-      "finalDng-f2": {
-        field: { track: "final-dungeon-f2", volume: 1 },
-        battle: { track: "aridBattle", volume: 1 },
+      'finalDng-f2': {
+        field: { track: 'final-dungeon-f2', volume: 1 },
+        battle: { track: 'aridBattle', volume: 1 },
       },
-      "finalDng-f3": {
-        field: { track: "final-dungeon-f3", volume: 1 },
-        battle: { track: "aridBattle", volume: 1 },
+      'finalDng-f3': {
+        field: { track: 'final-dungeon-f3', volume: 1 },
+        battle: { track: 'aridBattle', volume: 1 },
       },
-      "finalDng-f4": {
-        field: { track: "final-dungeon-f4", volume: 1 },
-        battle: { track: "aridBattle", volume: 1 },
+      'finalDng-f4': {
+        field: { track: 'final-dungeon-f4', volume: 1 },
+        battle: { track: 'aridBattle', volume: 1 },
       },
-      "finalDng-f5": {
-        field: { track: "final-dungeon-f5", volume: 1 },
-        battle: { track: "aridBattle", volume: 1 },
+      'finalDng-f5': {
+        field: { track: 'final-dungeon-f5', volume: 1 },
+        battle: { track: 'aridBattle', volume: 1 },
       },
     });
   });
