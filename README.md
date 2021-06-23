@@ -30,7 +30,7 @@ Here's an example how it'll sound in the game (just click on image):
 | Boss Battle                      |  Persona 5: Scramble | Blooming Villain                   |                                              |
 | CrossCounter!                    | Shovel Knight                                            | The Rival (Black Knight - First Battle)      |
 | Escape                           | Deltarune | Chase                                          |                                              |
-| Newcomer's Bridge                | Pokemon Heart Gold & Soul Silve                          | Route 29                                     |
+| Newcomer's Bridge                | Pokémon Heart Gold & Soul Silver                          | Route 29                                     |
 | Rhombus Dungeon                  |  Celeste | First Steps                                     |                                              |
 | Challenge 2                      | Sonic Unleashed                                          | vs. Titan & Big Mother                       |
 | Emilie theme                     | Sonic Unleashed                                          | Spagonia (Night)                             |
@@ -48,7 +48,7 @@ Here's an example how it'll sound in the game (just click on image):
 | Improvising                      |                           Persona 5 | Life Goes On                                    |
 | Maroon Valley                    | NieR: Automata                                           | Memories of Dust (No Vocals)                            |
 | Ba'kii Kum                       | Pokémon Black & White                                    | Driftveil City                               |
-| Shocking Reveal                  |                   Pokemon Sun & Moon | Unsettling Atmosphere                                   |
+| Shocking Reveal                  |                   Pokémon Sun & Moon | Unsettling Atmosphere                                   |
 | Temple of the Valley             |                                Sonic Adventure | Tricky Maze                              |
 | Lucid Dream                      | Final Fantasy VII                                        | Chasing the Black-Caped Man                  |
 | Autumn's Fall                    | The Legend of Zelda: Spirit Tracks                       | Realm Overworld                              |
@@ -70,7 +70,7 @@ Here's an example how it'll sound in the game (just click on image):
 | Basin Keep                       | Celeste B-Sides                                          | Mello - Mirror Temple                              |
 | Temple of the Lake               | Chrono Cross                                             | Chronopolis                                  |
 | Temple of Thunder                |                             The Legend of Zelda: Twilight Princess | Palace of Twilight       |
-| Temple of Grand Tree             | The Legend of Zelda: Breath of The Wild                  | The Final Trial                              |
+| Temple of Grand Tree             | Genshin Impact                  | Endless Echoes                              |
 | Sapphire Ridge                   | Sonic Unleashed                                          | Jungle Joyride (Night)                       |
 | Rhombus Square                   | Super Mario Odyssey                                      | New Donk City (Daytime)                               |
 | Old Hideout                      | The Binding of Isaac: Antibirth                          | Journey from a Jar to the Sky                |
@@ -83,6 +83,14 @@ Here's an example how it'll sound in the game (just click on image):
 | Battle Arena                     |                           Pokémon Black & White 2 | Pokémon World Tournament (PWT)                       |
 | Boss Rush                        |           Pokémon Black & White 2 | Pokémon World Tournament Final Battle                        |
 | S Rank                           | Kirby Planet Robobot                                     | One Last Shot                                |
+
+# DLC Content
+
+| Origin                         | New track sourse                                                 | New track                                       |
+| -------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
+| Azure Archipelago                            | Mario & Luigi: Dream Team                                   | Sunny Driftwood Shore                   |
+| Temple of the Crater                 | The Legend of Zelda: Breath of the Wild                                       |    Final Trial                            |
+| One Last Trial                    | +TEK                          | Heian Alien 
 
 # Table with custom replacements
 
@@ -99,6 +107,7 @@ Here's an example how it'll sound in the game (just click on image):
 | Fanfare            |  Pokemon X & Y    | Obtained a gym badge                         |
 | Dream              | Final Fantasy VII    | Secrets Sleeping in the Deep Sea          |
 | muGlitch           | NieR: Automata       | Pascal (No Vocals)                        |
+| Trouble on the Highway          | Final Fantasy VII: Remake       | Midgar Expressway                        |
 
 # Finally! Your installation instruction
 
